@@ -80,15 +80,6 @@ The solver generates:
 
 ---
 
-## **Example Results**
-### **1. Strain Distribution**
-![Strain Plot](path/to/strain_plot.png)
-
-### **2. Stress Distribution**
-![Stress Plot](path/to/stress_plot.png)
-
----
-
 ## **Contributing**
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
